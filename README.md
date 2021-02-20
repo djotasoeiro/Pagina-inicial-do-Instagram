@@ -1,6 +1,6 @@
 
 
-<img src="assets/images/logo-instagram.png"/>
+<img src="assets/images/logo-instagram.png" height="45px" width="440px"/>
 
 <h1 align="center"> Pagina Inicial do Instagram </h1>
 
